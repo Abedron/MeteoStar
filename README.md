@@ -1,5 +1,5 @@
 # MeteoStar
-Temperature, huminidy, co2, tvoc sensors connected to ThingSpeak
+PlatformIO project within Visual Studio Code for temperature, huminidy, co2 and tvoc measurements. Data are sending to ThingSpeak.
 
 # HW
 - NodeMcu-32s
